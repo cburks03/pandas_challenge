@@ -56,5 +56,6 @@ Overwhelmingly male at 84%. Avg purchase price between genders is negligible. To
     
 
 Prerequisites
+
 Python, Pandas, and NumPy need to be installed to run the code
 
